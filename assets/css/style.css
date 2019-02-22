@@ -1,0 +1,108 @@
+
+body {
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url(https://i.imgur.com/Al1bCH0.png);
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+nav {
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+.top {
+    height: 100px;
+    position: relative;
+    margin: auto;
+    width: 960px;
+    text-align: center;
+}
+
+.nam {
+    height: 100px;
+    background-color: #4aaaa5;
+    width: 250px;
+    float: left;
+    padding-left: 
+    text-align: center;
+}
+
+.h1name {
+    padding-top: 10px;
+}
+
+/* this wraps the list*/
+.apc {
+    float: left;
+    width: 360px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.cont {
+    max-width: 960px;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: gray;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: gray;
+
+  }
+
+  li a:hover {
+    color: #111;
+  }
+
+  header {
+      text-align: left;
+  }
+.sec1 { 
+    position: relative;
+
+}
+  .pic1 {
+      max-width: 20%;
+      max-height: 20%;
+      padding-right: 20px;
+      float: left; 
+  }
+
+  .abt {
+      text-align: justify;
+  }
+
+  .abt1 {
+    text-align: justify;
+}
+
+  .sec2 { 
+    position: relative;
+    clear: both;
+    margin-top: 20px;
+    padding-top: 20px;
+  }
